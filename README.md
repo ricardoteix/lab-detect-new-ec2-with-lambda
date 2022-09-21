@@ -63,7 +63,7 @@ Para fazer uso lembre-se de modificar o parâmetro **TargetArn** do **sns.publis
 
 Código para teste
 
-``
+```
 import json
 import boto3
 
@@ -99,7 +99,7 @@ def lambda_handler(event, context):
         'statusCode': 200,
         'body': json.dumps('Hello from Lambda!')
     }
-``
+```
 
 12. Implementar o código final de acordo com o fuxograma **Usando AWS Lambda com SNS e EventBridge para Identificar novas EC2.drawio.pdf**
 
