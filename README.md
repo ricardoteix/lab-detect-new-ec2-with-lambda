@@ -63,7 +63,8 @@ Para fazer uso lembre-se de modificar o parâmetro **TargetArn** do **sns.publis
 
 Código para teste
 
-``import json
+``
+import json
 import boto3
 
 def lambda_handler(event, context):
