@@ -5,6 +5,10 @@ entitulada **Usando AWS Lambda com SNS e EventBridge para Identificar novas EC2*
 
 O principal objetivo foi utilizar o EventBridge, AWS Lambda com a linguagem Python e SNS para identificar e notificar por email quando uma nova instância é criada em uma região e, caso seja uma instância indesejada, vamos excluir a instância.
 
+Veja o vídeo completo
+
+[![https://i.ytimg.com/vi/uTuMsU_PXEc/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCWOi8wiIs5SW0UshlO-ifEMPb0Cg](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=uTuMsU_PXEc)
+
 ## Considerações ## 
 
 O código disponível no arquivo **lambda_handler.py** é o mesmo criado durante a live.
