@@ -7,7 +7,7 @@ O principal objetivo foi utilizar o EventBridge, AWS Lambda com a linguagem Pyth
 
 Veja o vídeo completo
 
-[![https://i.ytimg.com/vi/uTuMsU_PXEc/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCWOi8wiIs5SW0UshlO-ifEMPb0Cg](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=uTuMsU_PXEc)
+[![Usando AWS Lambda com SNS e EventBridge para Identificar novas EC2](https://i.ytimg.com/vi/uTuMsU_PXEc/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCWOi8wiIs5SW0UshlO-ifEMPb0Cg)](https://www.youtube.com/watch?v=uTuMsU_PXEc)
 
 ## Considerações ## 
 
